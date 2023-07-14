@@ -14,9 +14,9 @@
 ## 🛠  Skills
 
 <table width="100%"> 
-  <tr style="border-top: 2px solid">  
+  <tr>  
     <th rowspan="4">
-      <b style="color: red">BackEnd</b>
+      <font color="red"><b>BackEnd</b></font>
     </th>
     <td>Language</td>
     <td>
@@ -38,7 +38,7 @@
       <img alt="spring data jpa" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=Spring&logoColor=white" />
     </td>
   </tr>
-  <tr style="border-bottom: 2px solid">
+  <tr>
     <td>WAS</td>
     <td>
       <img alt="tomcat" src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=Apache-Tomcat&logoColor=white" />
@@ -47,14 +47,14 @@
   </tr>
   <tr>
     <th rowspan="2">
-      <b style="color: red">FrontEnd</b>
+      <font color="red"><b>FrontEnd</b></font>
     </th>
     <td>Language</td>
     <td>     
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
     </td>
   </tr>
-  <tr style="border-bottom: 2px solid">
+  <tr>
     <td>FrameWork</td>
     <td>
       <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -63,8 +63,8 @@
       <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
     </td>
   </tr>
-  <tr style="border-bottom: 2px solid">
-    <th><b style="color: red">DataBase</b></th>
+  <tr>
+    <th><font color="red"><b>DataBase</b></font></th>
     <td>Language</td>
     <td>
       <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
@@ -75,7 +75,7 @@
     </td>
   </tr>
   <tr>
-    <th rowspan="5"><b style="color: red">ETC</b></th>
+    <th rowspan="5"><font color="red"><b>ETC</b></font></th>
     <td>VCS</td>
     <td>
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
@@ -111,7 +111,7 @@
       <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
     </td>
   </tr>
-  <tr style="border-bottom: 2px solid">
+  <tr>
     <td>BUILD, DEPLOY</td>
     <td>
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
